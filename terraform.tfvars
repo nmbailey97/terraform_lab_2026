@@ -1,2 +1,2 @@
 vm-name = "nathalie :)"
-vm-size = "t3.micro"
+vm-size = "t2.small"
