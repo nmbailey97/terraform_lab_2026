@@ -1,0 +1,15 @@
+variable "nathalie-ami" {
+  type = string
+  description = "whatever ashu wrote"
+  default = "ami-068c0051b15cdb816"
+}
+
+variable "vm-size" {
+    type = string
+    default = "t3.micro"
+}
+
+variable "vm-name" {
+    type = string
+    default = "nathalie :)"
+}
