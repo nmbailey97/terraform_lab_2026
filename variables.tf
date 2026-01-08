@@ -13,3 +13,9 @@ variable "vm-name" {
     type = string
     default = "nathalie :)"
 }
+
+
+variable "novm" {
+  type = number
+  description = "this is for number of vms being created"
+}
